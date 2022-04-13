@@ -1,0 +1,2 @@
+Subido a Github: Ingles y Español Nlp con deteccion de sentimientos
+En requirements falta pysentimiento + torch (para que funcione la deteccion de sentimientos en español)
